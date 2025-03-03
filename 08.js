@@ -1,5 +1,5 @@
 //Crie uma função que conte os caracteres em uma string.
-var string = "bola"
-function contar(){    
+function contar(string){    
     console.log(string.length)
 }
+contar("Hello world!")
